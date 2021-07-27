@@ -31,6 +31,7 @@ yarn --version
 
 [DOM](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction): Document Object Model
 
+[Google Fonts](https://fonts.google.com/)
 
 ## Flow Charts, Notes, UI, GUI, Screenflow
 
@@ -63,11 +64,23 @@ Firebase SDK
 yarn add firebase
 ```
 
+Sass
+```ts
+yarn add node-sass@^5.0.0
+```
+
+[react-router-dom](https://reactrouter.com/web/guides/quick-start)
+```ts
+yarn add react-router-dom
+```
+Typagem para react-router-dom
+```ts
+yarn add @types/react-router-dom -D
+```
 
 ```ts
 
 ```
-
 
 ```ts
 
